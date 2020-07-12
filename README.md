@@ -1,0 +1,2 @@
+# ogrenci_otomasyonu
+ 
